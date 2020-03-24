@@ -1,9 +1,9 @@
 # Modeling Commutation Logic
 ### Copyright 2019 The MathWorks, Inc.
 
-This repository contains MATLAB and Simulink files used in the [How to Design Motor Controllers Using Simscape Electrical, Part 3: Modeling Commutation Logic](https://www.youtube.com/watch?v=NH0O1-mjysU&list=PLn8PRpmsu08pqegLB5CqfgZCtuK5UKIrx&index=3) video. Check out the rest of the videos in [this section](#videos).
+This repository contains MATLAB and Simulink files used in the [How to Design Motor Controllers Using Simscape Electrical, Part 3: Modeling Commutation Logic](https://www.youtube.com/watch?v=NH0O1-mjysU&list=PLn8PRpmsu08pqegLB5CqfgZCtuK5UKIrx&index=3) video. Check out the rest of the videos in [this section](#videos-and-files).
 
-## Model & Setup
+## Model and Setup
 
 The Simulink model provides the control algorithm that lets you control a BLDC motor at different speeds and simulate motor response. The following picture shows a snapshot of the model which consists of subsystems such as PI-controller, three-phase inverter,  commutation logic and sensor. 
 
@@ -21,7 +21,7 @@ You can do the following with the provided files:
 
 - Run MATLAB file (animateRotorPosition.m) to create the BLDC motor animation. After running the MATLAB file, press any button to start the animation. The MATLAB file runs the Simulink model, and uses the simulated data to animate the BLDC motor.
 
-## Videos & Files
+## Videos and Files
 "How to Design Motor Controllers Using Simscape Electrical" video series consists of 5 videos. Click the links below to watch the videos and download the files. 
 
   - Part 1: Simulating Back-EMF Voltage of a BLDC Motor [[Watch video](https://www.youtube.com/watch?v=JDgvBZbnfPw&list=PLn8PRpmsu08pqegLB5CqfgZCtuK5UKIrx&index=1), [Download files](https://github.com/mathworks/Design-motor-controllers-with-Simscape-Electrical/tree/master/1%20Simulating%20back%20emf%20voltage%20of%20a%20BLDC%20motor)]
