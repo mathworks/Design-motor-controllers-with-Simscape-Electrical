@@ -1,9 +1,9 @@
 # Simulating Back-EMF Voltage of a BLDC Motor
 ### Copyright 2019 The MathWorks, Inc.
 
-This repository contains the Simulink model used in the [How to Design Motor Controllers Using Simscape Electrical, Part 1: Simulating Back-EMF Voltage of a BLDC Motor](https://www.youtube.com/watch?v=JDgvBZbnfPw&list=PLn8PRpmsu08pqegLB5CqfgZCtuK5UKIrx) video. Check out the rest of the videos in [this section](#videos).
+This repository contains the Simulink model used in the [How to Design Motor Controllers Using Simscape Electrical, Part 1: Simulating Back-EMF Voltage of a BLDC Motor](https://www.youtube.com/watch?v=JDgvBZbnfPw&list=PLn8PRpmsu08pqegLB5CqfgZCtuK5UKIrx) video. Check out the rest of the videos in [this section](#videos-and-files).
 
-## Model & Setup
+## Model and Setup
 The provided model shown below lets you simulate a three-phase BLDC motor and observe its back-EMF voltage. 
 
 ![](images/model.png)
@@ -16,7 +16,7 @@ In this simulation, we create a scenario where we turn the motor shaft while hav
 
 To run the simulation, open the “BLDC_back_EMF” Simulink model, run simulation by pressing the “Run” button on the simulation tab and observe the back-EMF voltage using the provided scope.
 
-## Videos & Files
+## Videos and Files
 "How to Design Motor Controllers Using Simscape Electrical" video series consists of 5 videos. Click the links below to watch the videos and download the files. 
 
   - Part 1: Simulating Back-EMF Voltage of a BLDC Motor [[Watch video](https://www.youtube.com/watch?v=JDgvBZbnfPw&list=PLn8PRpmsu08pqegLB5CqfgZCtuK5UKIrx&index=1), [Download files](https://github.com/mathworks/Design-motor-controllers-with-Simscape-Electrical/tree/master/1%20Simulating%20back%20emf%20voltage%20of%20a%20BLDC%20motor)]
