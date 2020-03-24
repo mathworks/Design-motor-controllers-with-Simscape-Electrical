@@ -3,7 +3,7 @@
 
 This repository contains MATLAB and Simulink files used in the [How to Design Motor Controllers Using Simscape Electrical, Part 4: Modeling a PWM-Controlled Buck Converter](https://www.youtube.com/watch?v=bMJVmyv76Bs&list=PLn8PRpmsu08pqegLB5CqfgZCtuK5UKIrx&index=4) video. Check out the rest of the videos in [this section](#videos-and-files).
 
-## Model & Setup
+## Model and Setup
 The Simulink model shown in the picture below uses a PWM-controlled buck converter to step down a DC source voltage to the required voltage values for running a BLDC motor at different reference speeds. 
 
 ![](images/model.png)
