@@ -1,9 +1,9 @@
 # Modeling a Three-Phase Inverter
 ### Copyright 2019 The MathWorks, Inc.
 
-This repository contains the MATLAB and Simulink files used in the [How to Design Motor Controllers Using Simscape Electrical, Part 2: Modeling a Three-Phase Inverter](https://www.youtube.com/watch?v=dghUC_IAj1Q&list=PLn8PRpmsu08pqegLB5CqfgZCtuK5UKIrx&index=2) video. Check out the rest of the videos in [this section](#videos).
+This repository contains the MATLAB and Simulink files used in the [How to Design Motor Controllers Using Simscape Electrical, Part 2: Modeling a Three-Phase Inverter](https://www.youtube.com/watch?v=dghUC_IAj1Q&list=PLn8PRpmsu08pqegLB5CqfgZCtuK5UKIrx&index=2) video. Check out the rest of the videos in [this section](#videos-and-files).
 
-## Model & Setup
+## Model and Setup
 The provided model lets you simulate a BLDC motor which is driven by a three-phase inverter. A snapshot of the model is given below. 
 
 ![](images/model.png)
@@ -20,7 +20,7 @@ You can do the following with the provided files:
 
 - Run MATLAB file (animateRotorPosition.m) to create the BLDC motor animation seen above (also at 7:23 in the video). After running the MATLAB file, press any button to start the animation. The MATLAB file runs the Simulink model, and uses the simulated data to animate the BLDC motor.
 
-## Videos & Files
+## Videos and Files
 "How to Design Motor Controllers Using Simscape Electrical" video series consists of 5 videos. Click the links below to watch the videos and download the files. 
 
   - Part 1: Simulating Back-EMF Voltage of a BLDC Motor [[Watch video](https://www.youtube.com/watch?v=JDgvBZbnfPw&list=PLn8PRpmsu08pqegLB5CqfgZCtuK5UKIrx&index=1), [Download files](https://github.com/mathworks/Design-motor-controllers-with-Simscape-Electrical/tree/master/1%20Simulating%20back%20emf%20voltage%20of%20a%20BLDC%20motor)]
