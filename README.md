@@ -1,6 +1,8 @@
 # Design Motor Controllers with Simscape Electrical
 ### Copyright 2019 The MathWorks, Inc.
 
+[![View Design-motor-controllers-with-Simscape-Electrical on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/74826-design-motor-controllers-with-simscape-electrical)
+
 This repository consists of folders containing the MATLAB and Simulink files that are used in the [How to Design Motor Controllers Using Simscape Electrical](https://www.youtube.com/watch?v=JDgvBZbnfPw&list=PLn8PRpmsu08pqegLB5CqfgZCtuK5UKIrx) video series:
 
 - [Simulate back-EMF voltage of a BLDC motor](https://github.com/mathworks/Design-motor-controllers-with-Simscape-Electrical/tree/master/1%20Simulating%20back%20emf%20voltage%20of%20a%20BLDC%20motor)
